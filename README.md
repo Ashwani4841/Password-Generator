@@ -8,7 +8,7 @@ Real-time password generation and instant preview.
 Copy generated password to the clipboard with a single click.
 Fully responsive design powered by Tailwind CSS.
 
-Technologies Used:
+Technologies Used:-
 
 React.js for building the user interface.
 Tailwind CSS for modern styling and responsive design.
