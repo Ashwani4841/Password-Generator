@@ -21,7 +21,7 @@ Run npm install to install dependencies.
 Start the development server using npm start.
 Adjust password options and generate your custom secure password.
 
-Feel free to contribute or share feedback
+Feel free to contribute or share feedback:-
 
 Email:-ashwanigiri7236@gmail.com
 
