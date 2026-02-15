@@ -24,5 +24,6 @@ Adjust password options and generate your custom secure password.
 Feel free to contribute or share feedback:-
 
 Email:-ashwanigiri7236@gmail.com
+
 LinkedIn:-https://www.linkedin.com/in/ashwani-giri-2638381b6/
 
